@@ -1,16 +1,9 @@
-# writemotions
+WritEmotions is an AI application.
 
-A new Flutter application.
+In this app, you can take a pic of your face, and it can know your feelings, then try to suggest some words to talk about or express your feelings, in this app you can:
+1- take a pic of your face.
+2- take a photo from your phone Gallery.
+3- see your feelings and write a statement to describe them.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+I use the Flutter platform and TensorFlow Lit library in this app.
+![WritEmotions](https://user-images.githubusercontent.com/114604585/198342205-ae1a3ffa-9bb2-412a-bf8f-cf99acda46ea.png)
